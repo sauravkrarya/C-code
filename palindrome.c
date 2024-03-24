@@ -1,4 +1,4 @@
-777#include <stdio.h>
+#include <stdio.h>
 int main() {
   int n, reversed = 0, remainder, original;
     printf("Enter an integer: ");
